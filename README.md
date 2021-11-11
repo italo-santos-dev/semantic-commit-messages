@@ -6,7 +6,7 @@ Formato: `<type>(<scope>): <subject>`
 
 `<scope>` é opcional
 
-## Exemplo
+## 🔭 Exemplo
 
 ```
 feat: adicionar widget 
@@ -17,7 +17,7 @@ feat: adicionar widget
 +-------> Modelo: chore, docs, feat, fix, refactor, style, or test.
 ```
 
-Mais exemplos:
+### 📡 Mais exemplos:
 
 - `feat`: (novo recurso para o usuário, não um novo recurso para script de construção)
 - `fix`: (correção de bug para o usuário, não uma correção para um script de construção)
@@ -27,8 +27,13 @@ Mais exemplos:
 - `test`: (adicionar testes ausentes, refatorar testes; sem mudança de código de produção)
 - `chore`: (atualização de tarefas grunhidas etc; sem mudança de código de produção)
 
-Referências:
+### 🧠 Referências:
 
 - https://www.conventionalcommits.org/
 - https://seesparkbox.com/foundry/semantic_commit_messages
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
+
+### 🔗 Me encontre!
+- Linkedin: https://www.linkedin.com/in/italo-santos-dev/
+- Instagram: https://www.instagram.com/italosantsz/
+- Github: https://github.com/dev-italosantos
