@@ -1,23 +1,25 @@
-# Mensagens de confirmação semântica
+# Semantic confirmation messages
 
-Veja como uma pequena mudança em seu estilo de mensagem de commit pode torná-lo um programador melhor.
+See how a small change to your commit message style can make you a better programmer.
 
-Formato: `<type>(<scope>): <subject>`
+Format: `<type>(<scope>): <subject>`
 
-`<scope>` é opcional
+`<scope>` it's optional
 
-## 🔭 Exemplo
+## 🔭 Example
 
 ```
-feat: adicionar widget 
+feat: add widget 
 ^--^  ^------------^
 |     |
-|     +-> Resumo no tempo presente.
+|     +-> Abstract in the present tense.
 |
-+-------> Modelo: chore, docs, feat, fix, refactor, style, or test.
++-------> Model: chore, docs, feat, fix, refactor, style, or test.
 ```
 
-### 📡 Mais exemplos:
+ProTip! Great commit summaries contain fewer than 50 characters. Place extra information in the extended description.
+ 
+### 📡 More examples:
 
 - `feat`: (novo recurso para o usuário, não um novo recurso para script de construção)
 - `fix`: (correção de bug para o usuário, não uma correção para um script de construção)
@@ -27,13 +29,13 @@ feat: adicionar widget
 - `test`: (adicionar testes ausentes, refatorar testes; sem mudança de código de produção)
 - `chore`: (atualização de tarefas grunhidas etc; sem mudança de código de produção)
 
-### 🧠 Referências:
+### 🧠 References:
 
 - https://www.conventionalcommits.org/
 - https://seesparkbox.com/foundry/semantic_commit_messages
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
 
-### 🔗 Me encontre!
+### 🔗 Meet me!
 - Linkedin: https://www.linkedin.com/in/italo-santos-dev/
 - Instagram: https://www.instagram.com/italosantsz/
 - Github: https://github.com/dev-italosantos
