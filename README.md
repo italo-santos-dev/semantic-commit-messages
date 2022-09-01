@@ -21,13 +21,13 @@ ProTip! Great commit summaries contain fewer than 50 characters. Place extra inf
  
 ### 📡 More examples:
 
-- `feat`: (novo recurso para o usuário, não um novo recurso para script de construção)
-- `fix`: (correção de bug para o usuário, não uma correção para um script de construção)
-- `docs`: (mudanças na documentação)
-- `style`: (formatação, ponto e vírgula faltando, etc; sem mudança de código de produção)
-- `refactor`: (formatação, ponto-e-vírgula faltando, etc; sem mudança de código de produção)
-- `test`: (adicionar testes ausentes, refatorar testes; sem mudança de código de produção)
-- `chore`: (atualização de tarefas grunhidas etc; sem mudança de código de produção)
+- `feat`: (new resource for user, not a new resource for build script)
+- `fix`: (bug fix for the user, not a fix for a build script)
+- `docs`: (documentation changes)
+- `style`: (formatting, missing semicolon, etc; no production code change)
+- `refactor`: (formatting, missing semicolon, etc; no production code change)
+- `test`: (add missing tests, refactor tests; no production code change)
+- `chore`: (task update grunts etc; no production code change)
 
 ### 🧠 References:
 
