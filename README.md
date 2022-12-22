@@ -1,5 +1,7 @@
 # Semantic confirmation messages
 
+The Conventional Commits specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history; which makes it easier to write automated tools on top of. 
+
 See how a small change to your commit message style can make you a better programmer.
 
 Format: `<type>(<scope>): <subject>`
