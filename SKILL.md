@@ -1,6 +1,6 @@
 ---
 name: git-commit-versioning
-description: Generate, validate, and structure semantic Git commit messages adhering strictly to Conventional Commits 1.0.0 and SemVer based on real staged and unstaged diffs. Use when asked to write a commit message, prepare commits, inspect git diffs for committing, manage versioning, or validate commit message compliance.
+description: Generate, validate, and structure semantic Git commit messages adhering strictly to Conventional Commits 1.0.0 based on real staged and unstaged diffs. Use when asked to write a commit message, manage Git versioning, prepare commits, inspect git diffs, or validate commit compliance.
 compatibility: Git, Node.js 18+ (for validator CLI)
 metadata:
   standard: "Conventional Commits 1.0.0"

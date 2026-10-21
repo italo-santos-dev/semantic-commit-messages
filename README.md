@@ -1,4 +1,4 @@
-# Semantic Commit & Versioning Agent Skill
+# Semantic Commit & Versioning (Agent Skill)
 
 [![Conventional Commits 1.0.0](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://www.conventionalcommits.org/en/v1.0.0/)
 [![SemVer 2.0.0](https://img.shields.io/badge/SemVer-2.0.0-blue.svg)](https://semver.org/)
@@ -6,7 +6,7 @@
 [![Dependencies: 0](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#built-in-validator)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
-A standardized **Conventional Commits 1.0.0 & Semantic Versioning specification**, an open **Agent Skill** for AI coding assistants (Antigravity, Claude Code, Cursor, Copilot), a **zero-dependency validator CLI**, and developer workflow guides.
+A standardized **Conventional Commits 1.0.0 specification**, an open **Agent Skill** for AI coding assistants (Antigravity, Claude Code, Cursor, Copilot), a **zero-dependency validator CLI**, and developer workflow guides.
 
 ---
 

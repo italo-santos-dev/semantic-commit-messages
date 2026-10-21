@@ -1,7 +1,7 @@
 {
-  "name": "semantic-commit-messages",
+  "name": "semantic-commit-versioning",
   "version": "2.0.0",
-  "description": "Standardized Conventional Commits 1.0.0 specification, agent skills, zero-dependency validation CLI, and developer workflow guidelines.",
+  "description": "Standardized Conventional Commits 1.0.0 and SemVer specification, agent skills, zero-dependency validation CLI, and developer workflow guidelines.",
   "author": "Ítalo Santos <italosantos.dev@gmail.com> (https://github.com/italo-santos-dev)",
   "license": "MIT",
   "repository": {
@@ -16,7 +16,6 @@
     "conventional-commits",
     "git",
     "commit-messages",
-    "commit-versioning",
     "semantic-commit",
     "semantic-versioning",
     "agent-skills",
@@ -27,6 +26,7 @@
   ],
   "type": "module",
   "bin": {
+    "git-commit-validate": "./scripts/validate-commit.mjs",
     "semantic-commit-validate": "./scripts/validate-commit.mjs"
   },
   "files": [
