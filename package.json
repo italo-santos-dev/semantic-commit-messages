@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/italo-santos-dev/semantic-commit-messages.git"
+    "url": "https://github.com/italo-santos-dev/semantic-commit-versioning.git"
   },
-  "homepage": "https://github.com/italo-santos-dev/semantic-commit-messages#readme",
+  "homepage": "https://github.com/italo-santos-dev/semantic-commit-versioning#readme",
   "bugs": {
-    "url": "https://github.com/italo-santos-dev/semantic-commit-messages/issues"
+    "url": "https://github.com/italo-santos-dev/semantic-commit-versioning/issues"
   },
   "keywords": [
     "conventional-commits",

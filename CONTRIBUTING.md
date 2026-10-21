@@ -19,8 +19,8 @@ Thank you for investing your time in improving `semantic-commit-messages`!
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/italo-santos-dev/semantic-commit-messages.git
-cd semantic-commit-messages
+git clone https://github.com/italo-santos-dev/semantic-commit-versioning.git
+cd semantic-commit-versioning
 ```
 
 ### 2. Run Tests
