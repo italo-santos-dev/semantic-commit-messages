@@ -1,0 +1,35 @@
+name: Bug Report
+description: Report an issue or false validation in the commit validator or skill
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve Semantic Commit Messages!
+  - type: input
+    id: commit-message
+    attributes:
+      label: Commit Message
+      description: The commit message that caused an unexpected result.
+      placeholder: "feat(auth): example message"
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected Behavior
+      description: What did you expect according to Conventional Commits 1.0.0?
+    validations:
+      required: true
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual Behavior / Error Output
+      description: Paste the exact CLI output or error message received.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating System, Node.js version, and Git version.
+      placeholder: "Windows 11, Node 22.0.0, Git 2.45"

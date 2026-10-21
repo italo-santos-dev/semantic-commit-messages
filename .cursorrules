@@ -1,0 +1,10 @@
+# Cursor Rules: Semantic Commit Messages
+
+When generating commit messages, analyzing diffs, or creating PR descriptions:
+
+- Adhere strictly to Conventional Commits 1.0.0.
+- Allowed types: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert.
+- Format: `<type>(<optional-scope>): <description>`
+- Use imperative mood, lowercase first letter, no trailing period.
+- For breaking changes, use `!` before the colon (e.g., `feat(api)!: remove deprecated endpoints`) or add `BREAKING CHANGE:` in the commit footer.
+- When validating commits, run: `node scripts/validate-commit.mjs "<message>"`

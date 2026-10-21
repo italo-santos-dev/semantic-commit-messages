@@ -1,0 +1,26 @@
+name: Feature Request
+description: Propose a new feature, agent integration, or guide improvement
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for proposing an enhancement to Semantic Commit Messages!
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / Motivation
+      description: Is your feature request related to a problem or missing workflow?
+    validations:
+      required: true
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the solution you'd like to see added.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Describe any alternative approaches or workarounds considered.
